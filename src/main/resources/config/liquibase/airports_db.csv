@@ -1,0 +1,870 @@
+id;code;name;town_id;icao;name_eng
+1;KUB;Кубинка;MOW;UUXB;Kubinka
+2;AAE;Аннаба;AAE;;Annaba
+3;AAL;Альборг;AAL;EKYT;Aalborg
+4;AAN; Аль-Айн;AUH;OMAL;Al Ain
+5;AAQ;Витязево;AAQ;URKA;Vityazevo
+6;AAS;Апаласили;AAS;;Apalasili
+7;ABA;Абакан;ABA;UNAA;Abakan
+8;ABJ;Абиджан;ABJ;;Felix Houphouet Boig
+9;ACC;Аккра;ACC;DGAA;Accra
+10;ADA;Адана;ADA;;Adana
+11;ADB;Измир;IZM;LTBJ;Adnan Menderes
+12;ADD;Аддис-Абеба;ADD;HAAB;Addis Ababa
+13;ADE;Аден;ADE;OYAA;Aden
+14;ADJ;Амман Marka;AMM;OJAM;Marka Intl
+15;ADL;Аделаида;ADL;;Adelaide
+16;ADW;Кемп Спрингс;ADW;KADW;Camp Springs
+17;AER;Адлер;AER;URSS;Adler
+18;AES;Алесунд;AES;ENAL;Aalesund
+19;AGA;Агадир;AGA;GMAD;Agadir
+20;AGP;Малага;AGP;LEMG;Malaga
+21;AHO;Alghero;AHO;LIEA;Alghero
+22;AJA;Кампо-дель-Оро;AJA;LFKJ;Campo Dell'Oro
+23;AKL;Окленд;AKL;;Auckland
+24;AKN;Котцебуе;AKN;PAOT;Kotzebue
+25;AKX;Актобе;AKX;UATT;Aktobe
+26;ALA;Алматы;ALA;UAAA;Almaty
+27;ALC;Аликанте;ALC;LEAL;Alicante
+28;ALF;Альта;ALF;ENAT;Alta
+29;ALG;Алжир;ALG;DAAG;Algiers
+30;ALP;Алеппо;ALP;OSAP;Aleppo
+31;ALY;Александрия;ALY;;Alexandria
+32;AMD;Ахмедабад;AMD;VAAH;Ahmedabad
+33;AMM;Амман;AMM;OJAI;Queen Alia Intl
+34;AMS;Скипхол;AMS;EHAM;Schiphol
+35;ANC;Анкоридж;ANC;PANC;Anchorage
+36;ANU;Берд Интл ;ANU;TAPA;V C Bird Intl
+37;AOI;Анкона;AOI;LIPY;Ancona
+38;AOJ;Аомори;AOJ;;Aomori
+39;AOM;Ном;AOM;PAOM;Nome
+40;AQJ;Акаба;AQJ;OJAQ;Aqaba
+41;ARH;Талаги;ARH;ULAA;Talagi
+42;ARN;Арланда;STO;ESSA;Arlanda
+43;ASB;Ашгабад;ASB;UTAA;Ashgabad
+44;ASF;Астрахань;ASF;URWA;Astrakhan
+45;ASU;Асунсьон;ASU;;Asuncion
+46;ASW;Ассуан;ASW;HESN;Aswan
+47;ATH;Елефтериос Венизелос;ATH;LGAV;Eleftherios Venizelo
+48;ATL;Атланта;ATL;KATL;Atlanta. Ga
+49;ATQ;Амритсар;LUH;VIAR;Amritsar
+50;AUH;Абу-Даби;AUH;OMAA;Abu Dhabi
+51;AXD;Димокритос;AXD;LGAL;Dimokritos
+52;AXT;Акита;AXT;RJSK;Akita
+53;AYT;Анталья;AYT;LTAI;Antalya
+54;AZN;Андижан;AZN;UTKA;Andizhan
+55;BAH;Бахрейн;BAH;OBBI;Bahrain Intl
+56;BAX;Михайловка;BAX;UNBB;Mikhaylovka
+57;BCM;Бакау;BCM;LRBC;Bacau
+58;BCN;Ел Прат;BCN;LEBL;El Prat
+59;BDA;Бермуды;BDA;;Bermuda
+60;BDS;Бриндизи;BDS;LIBR;Brindisi
+61;BDU;Бардуфос;BDU;ENDU;Bardufoss Ab
+62;BEG;Белград;BEG;LYBE;Belgrade
+63;BEL;Белем;BEL;SBBE;Belem
+64;BEN;Бенгази;BEN;HLLB;Benghazi
+65;BER;Бранденбург;BER;EDDB;Berlin Brandenburg
+66;BES;Брест;BES;LFRB;Brest
+67;BEW;Бейра;BEW;;Beira
+68;BEY;Бейрут;BEY;OLBA;Beirut
+69;BFI;Боинг Филд;SEA;KBFI;Boeing Field/King Co
+70;BFS;Белфаст;BFS;EGAA;Belfast
+71;BGB;Борисоглебское;KZN;UWKG;Borisoglebskoe
+72;BGF;Банги;BGF;;Bangui
+73;BGI;Грентли Адамс Интл;BGI;TBPB;Grantley Adams Intl
+74;BGO;Берген;BGO;ENBR;Bergen
+75;BGR;Бангор;BGR;KBGR;Bangor Intl
+76;BGW;Багдад;BGW;ORBS;Baghdad
+77;BGY;Орио;BGY;LIME;Orio al Serio
+78;BHJ;Бхудж;BHJ;VABJ;Rudra Mata
+79;BHK;Бухара;BHK;UTSB;Bukhara
+80;BHX;Бирмингем;BHX;EGBB;Birmingham
+81;BIO;Бильбао;BIO;LEBB;Bilbao
+82;BJM;Бужумбура;BJM;HBBA;Bujumbura
+83;BJV;Милас;BJV;;Milas
+84;BKA;Быково;MOW;UUBB;Bykovo
+85;BKI;Кота-Кинабалу;BKI;;
+86;BKK;Бангкок;BKK;VTBS;Bangkok(Intl)
+87;BKO;Бамако;BKO;GABS;Bamako
+88;BLL;Биллунд;BLL;EKBI;Billund
+89;BLQ;Болонья;BLQ;LIPE;Bologna
+90;BLR;Бангалор;BLG;VOBG;Bangalore
+91;BNE;Брисбан;BNE;;Brisbane
+92;BNX;Банья Лука;BNX;LQBK;Banja Luka
+93;BOD;Бордо;BOD;LFBD;Bordeaux
+94;BOG;Богота;BOG;SKBO;Bogota
+95;BOH;Борнмут;BOH;EGHH;Bournemouth
+96;BOJ;Бургас;BOJ;LBBG;Burgas
+97;BOK;Юбилейный;BOK;UAUN;
+98;BOM;Чхатрапати Шиваджи;BOM;VABB;Chhatrapati Shivaji
+99;BOO;Бодо;BOO;ENBO;Bodo Ab
+100;BOS;Бостон;BOS;KBOS;Boston
+101;BQS;Игнатьево;BQS;UHBB;Ignatyevo
+102;BQT;Брест;BQT;UMBB;Brest
+103;BRE;Бремен;BRE;EDDW;Bremen
+104;BRI;Бари;BRI;LIBD;Bari
+105;BRN;Берн;BRN;;
+106;BRQ;Брно;BRQ;LKTB;Brno/Turany
+107;BRU;Брюссель(Националь);BRU;EBBR;Brussels National
+108;BSB;Бразилиа;BSB;SBBR;Brasilia
+109;BSK;Бийск;BSK;UNBI;Biysk
+110;BSL;Базель/Малхауз;BSL;LFSB;Basel/Mulhouse
+111;BSR;Басра;BSR;ORMM;Basrah
+112;BTK;Братск;BTK;UIBB;Bratsk
+113;BTS;Братислава;BTS;LZIB;Bratislava
+114;BUD;Ферихедь;BUD;LHBP;Ferihegy
+115;BUG;Северный;BUG;UWWB;Severny
+116;BUS;Батуми;BUS;UGSB;Batumi
+117;BVA;Бове;PAR;LFOB;Beauvais
+118;BWI;Балтимор-Вашингтон ;BWI;KBWI;Baltimore-Washington
+119;BXO;Buochs;BXO;;Buochs
+120;BZE;Белиз;BZE;MZBZ;Belize - Phillip Gol
+121;BZK;Брянск;BZK;UUBP;Bryansk
+122;BZV;Браззавиль;BZV;FCBB;Brazzaville
+123;CAG;Кальяри;CAG;LIEE;Cagliari
+124;CAI;Каир;CAI;HECA;Cairo Intl
+125;CAN;Баюань;CAN;ZGGG;Baiyun
+126;CBG;Кембридж;CBG;EGSC;Cambridge
+127;CCJ;Каликут;CCJ;;Calicut
+128;CCS;Симон Боливар Инт.;CCS;SVMI;Simon Bolivar Intl
+129;CCU;Калькутта;CCU;VECC;NETAJI SUBHASH CHAND
+130;CDG;Шарль-де-Голль;PAR;LFPG;Charles-De-Gaulle
+131;CEB;Мактан-Себу Межд,;CEB;RPVM;Mactan-Cebu Intl
+132;CEE;Череповец;CEE;ULWC;Cherepovets
+133;CEK;Баландино;CEK;USCC;Balandino
+134;CEQ;Канны;CEQ;LFMD;Mandelieu
+135;CER;Шербург;CER;LFRC;Cherbourg
+136;CFE;Клермонт-Ферран;CFE;LFLC;Clermont-Ferrand
+137;CFU;Керкира /И. Каподист;CFU;LGKR;Kerkyra/Ioanis-Kapod
+138;CGK;Сукарно;JKT;WIII;Cengkareng
+139;CGN;Кельн(Бонн);CGN;EDDK;Cologne Bonn
+140;CGO;Чженчжоу;CGO;ZHCC;Zhengzhou
+141;CHC;Крайстчерч;CHC;;Christchurch
+142;CHQ;Чания;CHQ;LGSA;Chania
+143;CHR;Шатеруа;CHR;LFLX;Chateauroux
+144;CIA;Чампино;ROM;LIRA;Ciampino
+145;CIT;Чимкент;CIT;UAII;Shymkent
+146;CJJ;Ченжу;CJJ;;Cheong Ju
+147;CJU;Чеджу;CJU;RKPC;Cheju Int.
+148;CKG;Чонсинь;CKG;ZUCK;Chongqing Jiangbei I
+149;CKY;Конакри;CKY;GUCY;Conakry
+150;CMB;Бандаранаике;CMB;VCBI;Bandaranaike Intl
+151;CMF;Шамбери;CMF;LFLB;Chambery
+152;CMN;Касабланка;CAS;GMMN;Casablanka
+153;CMW;Игнасио Аграмо;CMW;MUCM;Ignacio Agramonte
+154;CND;Констанца;CND;LRCK;Constanca
+155;CNG;Коньяк;CNG;LFBG;Cognac
+156;CNS;Карнс;CNS;;Cairns
+157;COO;Котону;COO;DBBB;Cotonou
+158;COR;Кордоба;COR;SACO;Cordoba
+159;CPH;Каструп;CPH;EKCH;Kastrup
+160;CPT;Кейптаун;CPT;FACT;CAPE TOWN INTERNATIO
+161;CRL;Шарлеруа;BRU;EBCI;Brussels South Charl
+162;CSX;Чанша;CSX;ZGCS;Changsha
+163;CSY;Чебоксары;CSY;UWKS;Cheboksary
+164;CTA;Фонтана Росса;CTA;LICC;Fontana Rossa
+165;CTS;Саппоро;CTS;RJCC;
+166;CTU;Ченду;CTU;ZUUU;Chengdu
+167;CUN;Канкун;CUN;MMUN;Cancun
+168;CVG;Цинциннати;CVG;KCVG;Cincinnati
+169;CWL;Кардифф-Уэльс;CWL;EGFF;Cardiff
+170;CXR;Камрань;CXR;VVCR;
+171;CZM;Козумель;CZM;MMCZ;Cozumel INTL
+172;DAC;Дакка;DAC;VGZR;Dhaka
+173;DAD;Дананг;DAD;VVDN;Danang
+174;DAM;Дамаск;DAM;OSDI;Damascus
+175;DAR;Дар-эс-Салам;DAR;HTDA;Dar Es Salam
+176;DBV;Дубровник;DBV;LDDU;Dubrovnik
+177;DCA;Рональд Рейган;WAS;KDCA;Ronald Reagan
+178;DEL;Индира Ганди Межд.;DEL;VIDP;Indira Gandhi Intl
+179;DEN;Денвер;DEN;KDEN;Denver Co
+180;DFW;Даллас;DFW;KDFW;Dallas-Fort Worth IN
+181;DHA;Дахран;DHA;;Dhahran
+182;DIA;Доха Международный;DOH;OTBD;Doha Int
+183;DIJ;Дижон;DIJ;LFSD;Dijon
+184;DJE;Джерба;DJE;DTTJ;Jerba
+185;DKR;Дакар;DKR;GOOY;Dakar
+186;DLA;Дуала;DLA;FKKD;Douala
+187;DLC;Далиан;DLC;;Dalian
+188;DLE;Доле;DLE;LFGJ;Dole
+189;DLM;Даламан;DLM;LTBS;Dalaman
+190;DME;Домодедово;MOW;UUDD;Domodedovo
+191;DMK;Дон Муанг  ;DMK;;
+192;DMM;Даммам;DMM;;Dammam
+193;DNK;Днепропетровск;DNK;UKDD;Dnipropetrovs'k
+194;DOH;Хамад Международный;DOH;OTHH;Hamad Intl
+195;DOK;Донецк;DOK;UKCC;Donetsk
+196;DOL;Девиль;DOL;LFRG;Deauville
+197;DPS;Бали;DPS;WADD;Ngurah Rai
+198;DRS;Дрезден;DRS;EDDC;Dresden
+199;DRW;Дарвин;DRW;;Darwin
+200;DTW;Детройт;DTT;KDTW;Detroit
+201;DUB;Дублин;DUB;EIDW;Dublin
+202;DUR;Дурбан;DUR;;Durban
+203;DUS;Дюссельдорф;DUS;EDDL;Dusseldorf
+204;DWC;Аль-Мактум  ;DWC;OMDW;Al Maktoum
+205;DXB;Дубай;DXB;OMDB;Dubai
+206;DYR;Анадырь;DYR;UHMA;Anadyr
+207;DYU;Душанбе;DYU;UTDD;Dushanbe
+208;DZN;Джезказган;DZN;UAKD;Zhezkazgan
+209;EBB;Энтеббе;EBB;HUEN;Entebbe
+210;EBJ;Эсбьерг;EBJ;EKEB;Esbjerg
+211;EDI;Эдинбург;EDI;EGPH;Edinburgh
+212;EFL;Кефалония;EFL;LGKF;Kefalonia
+213;EGC;Бержерак;EGC;LFBE;Bergerac(Roumaniere)
+214;EGO;Белгород;EGO;UUOB;Belgorod
+215;EIE;Енисейск;EIE;UNII;Eniseysk
+216;EIN;Эйндховен;EIN;EHEH;Eindhoven
+217;ELF;Эль-Фашир;ELF;;El Fasher
+218;EMA;Мидленд;EMA;EGNX;East Midlands - Derb
+219;ENC;Нанси;ENC;LFSN;Nancy
+220;ERF;Эрфурт;ERF;EDDE;Erfurt
+221;ERZ;Эрзурум;ERZ;LTCE;Erzurum
+222;ESB;Анкара;ANK;LTAC;Esenboga
+223;ESK;Ейск;ESK;URKE;
+224;ESL;Элиста;ESL;URWI;Elista
+225;ETH;Элат;ETH;LLET;Eilat
+226;ETZ;Метц;ETZ;LFJL;Metz-Nancy-Lorraine
+227;EVE;Эвенес;EVE;ENEV;Evenes
+228;EVN;Звартноц;EVN;UDYZ;Zvartnots
+229;EWR;Ньюарк;NYC;KEWR;Newark Liberty Inter
+230;EWW;Советск;EWW;USHS;
+231;EZE;Буэнос-Айрес;BUE;SAEZ;Buenos Aires
+232;FAB;Фарнборо;LON;EGLF;Farnborough
+233;FAN;Листа;FAN;ENLI;Lista Ab
+234;FAO;Фаро;FAO;LPFR;Faro
+235;FBU;Форнебу;OSL;ENFB;Fornebu
+236;FCO;Фьюмичино;ROM;LIRF;Fiumicino
+237;FDF;Форт де Франс;FDF;TFFF;Fort de France 
+238;FDH;Фридрихсхавен;FDH;EDNY;FRIEDRICHSHAFEN
+239;FEG;Фергана;FEG;UTKF;Fergana
+240;FIH;Киншаса;FIH;;Kinshasa
+241;FJR;Фуджейра;FJR;OMFJ;Fujarah
+242;FKB;Карлсруэ;FKB;EDSB;Soellingen
+243;FKI;Кисангани;FKI;FZIC;Kisangani
+244;FLL;Форт Лодердейл;FLL;KFLL;FT Lauderdale
+245;FLR;Флоренция;FLR;LIRQ;Florence
+246;FMM;Мемминген;FMM;EDJA;Memmingen
+247;FNA;Фритаун;FNA;GFLL;Lungi
+248;FNI;Гарон;FNI;LFTW;Garons
+249;FNJ;Пхеньян;FNJ;ZKPY;Sunan
+250;FOE;Форбес;FOE;KFOE;Forbes AFB
+251;FRA;Франкфурт/Майн;FRA;EDDF;Frankfurt/Main
+252;FRL;Форли;FRL;LIPK;Forli
+253;FRU;Манас;FRU;UCFM;Manas
+254;FUK;Фукуока;FUK;RJFF;Fukuoka
+255;FZO;Филтон;FZO;EGTG;Filton
+256;GAO;Гуантанамо;GAO;;Guantanamo
+257;GAQ;Гао;GAQ;;
+258;GCM;Оуен Роберт;GCM;MWCR;Roberts Int
+259;GDN;Гданьск;GDN;EPGD;Gdansk
+260;GDX;Магадан(Сокол);GDX;UHMM;Magadan
+261;GDZ;Геленджик;GDZ;URKG;Gelendzik
+262;GIB;Гибралтар;GIB;;Gibraltar
+263;GIG;Рио-де-Жанейро;RIO;SBGL;Rio De Janeiro
+264;GLA;Глазго;GLA;EGPF;Glasgow
+265;GME;Гомель;GME;UMGG;Gomel
+266;GNA;Гродно;GNA;UMMG;Grodno
+267;GNB;Гренобль;GNB;LFLS;Grenoble
+268;GND;Поинт Салинес Интл;GND;TGPY;Point Salines Intl
+269;GOA;Генуя;GOA;LIMJ;Genoa
+270;GOI;Гоа;GOI;VOGO;Dabolim
+271;GOJ;Стригино;GOJ;UWGG;Strigino
+272;GOS;Антонов;GOS;UKKM;Gostomel
+273;GOT;Гетеборг;GOT;ESGG;Goteborg(Land)
+274;GPA;Араксос;GPA;LGRX;Araxos
+275;GRO;Герона;GRO;LEGE;Girona
+276;GRS;Гроссето;GRS;LIRS;Grosseto
+277;GRU;Сан-Паулу;SAO;SBGR;Sao Paulo
+278;GRV;Грозный;GRV;URMG;Grozny
+279;GRZ;Грац;GRZ;LOWG;Graz
+280;GSO;Гринсборо;GSO;KGSO;Greensboro
+281;GSV;Гагарин ;RTW;UWSG;Gagarin
+282;GUA;Гватемала;GUA;;La Aurora
+283;GUM;Гуам;GUM;;
+284;GUW;Атырау;GUW;UATG;Atyrau
+285;GVA;Женева;GVA;LSGG;Geneva
+286;GYD;Бина;BAK;UBBB;Bina
+287;GYR;Гудйеар;GYR;;
+288;GZP;Газипаша-Алания;GZP;LTFG;Gazipasa-Alanya
+289;HAJ;Ганновер;HAJ;EDDV;Hannover
+290;HAM;Гамбург;HAM;EDDH;Hamburg
+291;HAN;Нойбай ;HAN;VVNB;Noibai Intl
+292;HAU;Хагесунд;HAU;ENHD;Haugesund
+293;HAV;Хосе Марти межд.;HAV;MUHA;Jose Marti Intl
+294;HDD;Хайдерабад;HDD;;Hyderabad
+295;HEL;Вантаа;HEL;EFHK;Vantaa
+296;HER;Ираклион;HER;LGIR;Iraklion
+297;HET;Хух-Хото;HET;ZBHH;Hohhot
+298;HEW;Хеллиникон;ATH;LGAT;Hellinikon
+299;HGA;Харгейза;HGA;HCMH;Hargeysa
+300;HGH;Сяошань;HGH;ZSHC;Xiaoshan
+301;HHN;Хан;HHN;EDFH;Hahn
+302;HKD;Хакодата;HKD;;Hakodate
+303;HKG;Гонконг;HKG;VHHH;Hong Kong Intl
+304;HKT;Пхукет;HKT;VTSP;Phuket
+305;HMA;Ханты-Мансийск;HMA;USHH;Khanty-Mansiysk
+306;HMJ;Хмельницкий;HMJ;UKLH;Khmelnitskiy
+307;HND;Ханеда;TYO;RJTT;Haneda
+308;HNL;Гонолулу;HNL;;Honolulu
+309;HOG;Франк Пэйс;HOG;MUHG;Frank Pais
+310;HRB;Харбин;HRB;ZYHB;Harbin
+311;HRE;Хараре;HRE;FVHA;Harare
+312;HRG;Хургада;HRG;HEGN;Hurghada Intl
+313;HRK;Основа;HRK;UKHH;Osnova
+314;HTA;Чита;HTA;UIAA;Chita
+315;HTG;Хатанга;HTG;UOHH;Hatanga
+316;HWO;Ноос Рерри;HWO;KHWO;North Perry Airport
+317;HYD;Хайдерабад;HYD;;Begumpet
+318;IAA;Игарка;IAA;UOII;Igarka
+319;IAD;Даллес;WAS;KIAD;Dulles Intl
+320;IAH;Хьюстон;HOU;KIAH;Houston
+321;IAR;Ярославль(Туношна);IAR;UUDL;Yaroslavl(Tunoshna)
+322;IBZ;Ибиза;IBZ;LEIB;Ibiza
+323;ICN;Сеул/Инчон ;SEL;RKSI;Seoul/Inchon (Intl)
+324;IEG;Зелёна Гура Бабимост;IEG;EPZG;Zielona Gora Babimos
+325;IEV;Жуляны;IEV;UKKK;Zhulyany
+326;IFO;Ивано-Франковск;IFO;UKLI;Ivano-Frankivsk
+327;IGT;Слепцовская;IGT;URMS;Sleptsovskaya
+328;IGU;Фос-ду-Игуасу;IGU;SBFI;Foz do Iguacu
+329;IJK;Ижевск;IJK;USII;Izhevsk
+330;IKA;Имам Хомени;THR;OIIE;Imam Khomeini
+331;IKT;Иркутск;IKT;UIII;Irkutsk
+332;INN;Инсбрук;INN;LOWI;Innsbruck
+333;ISB;Шаклала;ISB;OPRN;Chaklala
+334;ISE;Испарта;ISE;;Isparta
+335;ISL;Ататюрк;IST;LTBA;Ataturk
+336;IST;Стамбул;IST;LTFM;Istambul
+337;IVL;Ивало;IVL;EFIV;Ivalo
+338;IWA;Иваново;IWA;UUBI;Ivanovo
+339;IXC;Чандигар;IXC;VICG;Chandigarh
+340;JAI;Джайпур;JAI;VIJP;Sanganeer
+341;JED;Джидда;JED;OEJN;Jeddah
+342;JFK;Кеннеди;NYC;KJFK;John F Kennedy
+343;JIB;Джибути;JIB;HDAM;Djibouti
+344;JKT;Джакарта;JKT;WIII;Jakarta
+345;JNB;Йоханнесбург;JNB;FAJS;Johannesburg
+346;JOE;Йоенсуу;JOE;EFJO;JOENSUU
+347;JOK;Йошкар-Ола;JOK;;Joshkar-Ola
+348;JRO;Килиманджаро;JRO;;Kilimanjaro
+349;JTR;Санторини;JTR;LGSR;Santorini
+350;JYV;Джуваскула;JYV;EFJY;Jyvaeskylae
+351;KAJ;Кайяни;KAJ;EFKI;Kajaani
+352;KAN;Кано;KAN;DNKN;Kano
+353;KAO;Куусамо;KAO;EFKS;Kuusamo
+354;KBL;Кабул;KBL;OAKB;Kabul
+355;KBP;Борисполь;IEV;UKBB;Borispol
+356;KEF;Кефлавик;REK;BIKF;Keflavik
+357;KEJ;Кемерово;KEJ;UNEE;Kemerovo
+358;KGD;Храброво;KGD;UMKK;Khrabrovo
+359;KGF;Караганда;KGF;UAKK;Karaganda
+360;KGL;Кигали;KGL;HRYR;Kigali
+361;KGP;Когалым;KGP;USRK;Kogalym
+362;KGS;Кос;KGS;LGKO;Kos
+363;KHI;Карачи;KHI;OPKC;Karachi
+364;KHV;Новый;KHV;UHHH;Novy
+365;KIH;О. Киш;KIH;;Kish Island
+366;KIJ;Ниигата;KIJ;RJSN;Niigata
+367;KIN;Кингстон;KIN;MKJP;Kingston(Jam)
+368;KIR;Керман;KIR;OIKK;Kerman
+369;KIV;Кишинев;KIV;LUKK;Chisinau
+370;KIX;Осака-Кансай;OSA;RJBB;Osaka-Kansi
+371;KJA;Емельяново;KJA;UNKL;Krasnoyarsk
+372;KKN;Киркинес;KKN;ENKR;Kirkines
+373;KLD;Мигалово;KLD;UUEM;Migalovo
+374;KLF;Калуга;KLF;UUBC;Kaluga
+375;KLU;Клагенфурт;KLU;LOWK;Klagenfurt
+376;KLV;Карловы Вары;KLV;LKKV;Karlovy Vary
+377;KLX;Каламата;KLX;;Kalamata
+378;KMG;Кунминг;KMG;ZPPP;Kunming
+379;KMI;Миядзаки;KMI;;Miyazaki
+380;KMJ;Кумамото;KMJ;RJFT;Kumamoto
+381;KMW;Кострома;KMW;UUBA;Kostroma
+382;KOJ;Кагошима;KOJ;;
+383;KOV;Кокчетав;KOV;UACK;Kokshetau
+384;KRK;Краков;KRK;EPKK;Krakow
+385;KRO;Курган;KRO;USUU;Kurgan
+386;KRP;Каруп;KRP;EKKA;Karup
+387;KRR;Пашковский;KRR;URKK;Pashkovsky
+388;KRT;Хартум;KRT;HSSS;Khartoum
+389;KRW;Туркменбаши;KRW;UTAK;Turkmenbashi
+390;KSC;Кошице;KSC;LZKZ;Kosice
+391;KSN;Наримановка;KSN;UAUU;Narimanovka
+392;KSQ;Карши;KSQ;UTSK;Karshi
+393;KSZ;Котлас;KSZ;ULKK;Kotlas
+394;KTM;Трибхуван межд.;KTM;VNKT;Tribhuvan Intl
+395;KTT;Киттиля;KTT;EFKT;Kettila
+396;KTW;Пыржовица;KTW;EPKT;Pyrzowice
+397;KUA;Куантан;KUA;WMKD;Kuantan
+398;KUF;Курумоч;KUF;UWWW;Kurumoch
+399;KUL;Куала-Лумпур;KUL;WMKK;Kuala Lumpur
+400;KUN;Каунас;KUN;EYKA;Kaunas
+401;KUT;Кутаиси;KUT;UGKO;Kutaisi
+402;KVA;Кавала;KVA;LGKV;Kavala
+403;KVD;Гянджа;KVD;UBBG;Ganja
+404;KVK;Апатиты;KVK;ULMK;Apatity
+405;KVX;Киров;KVX;USKK;Kirov
+406;KWI;Кувейт;KWI;OKBK;Kuwait
+407;KXK;Дземги;KXK;UHKD;Dzyomgi
+408;KXX;Каменск-Уральский;KXX;XSSU;
+409;KYS;Черемшанка;KJA;UNKM;Cheremshanka
+410;KYZ;Кызыл;KYZ;UNKY;Kyzyl
+411;KZN;Казань-2;KZN;UWKD;Kazan 2
+412;KZO;Кызыл-Орда;KZO;UAOO;Kyzylorda
+413;LAD;Луанда(4 февраля);LAD;FNLU;Luanda (4th of febru
+414;LAG;Лааге;LAG;ETNL;Laage
+415;LAS;Лас-Вегас;LAC;KLAS;McCarran
+416;LAX;Лос-Анджелес;LAX;KLAX;Los Angeles
+417;LBC;Любек Бланкензее;LBC;EDHL;Lubeck Blankensee
+418;LBD;Худжант;LBD;UTDL;Khudzhand
+419;LBG;Ле Бурже;PAR;LFPB;Le Bourget
+420;LCA;Ларнака;LCA;LCLK;Larnaca
+421;LCJ;Лодзь;LCJ;EPLL;Lodz
+422;LDE;Тарб;LDE;LFBT;Tarbes Ossun Lourdes
+423;LED;Пулково;LED;ULLI;Pulkovo
+424;LEH;Гавр;LEH;LFOH;Le Havre
+425;LEI;Альмерия;LEI;LEAM;Almeria
+426;LEJ;Лейпциг;LEJ;EDDP;Leipzig-Halle
+427;LFW;Ломе;LFW;DXXX;Lome
+428;LGK;Ланкави;LGK;WMKL;Lancave
+429;LGW;Гатвик;LON;EGKK;Gatwick
+430;LHE;Лахор;LHE;OPLA;Lahore
+431;LHR;Хитроу;LON;EGLL;Heathrow
+432;LIG;Лимож;LIG;LFBL;Limoges
+433;LIL;Лиль;LIL;LFQQ;Lille
+434;LIM;Лима;LIM;SPIM;Lima
+435;LIN;Линате;MIL;LIML;Linate
+436;LIS;Лиссабон;LIS;LPPT;Lisbon
+437;LJU;Любляна;LJU;LJLJ;Ljubljana
+438;LKL;Банак;LKL;ENNA;Banak 
+439;LLA;Лулеа;LLA;ESPA;Lulea (Kallax AB)
+440;LNX;Смоленск;LNX;UUBS;Smolensk
+441;LNZ;Линц;LNZ;LOWL;Linz
+442;LOS;Лагос;LOS;DNMM;Lagos
+443;LPA;Лас-Пальмас;LPA;GCLP;Las Palmas
+444;LPK;Липецк;LPK;UUOL;Lipetsk
+445;LPL;Ливерпуль;LPL;EGGP;Liverpool
+446;LPP;Лапен-ранта;LPP;EFLP;Lappen Ranta
+447;LRM;Романа;LRM;MDLR;Casa de Campo-La Rom
+448;LRT;Lorient;LRT;LFRH;Lorient
+449;LTK;Базель Ал-Ассад межд;LTK;OSLK;Bassel Al-Assad Intl
+450;LTN;Лутон;LON;EGGW;Luton
+451;LTQ;Le Touquet;LTQ;LFAT;Le Touquet
+452;LUN;Лусака;LUN;FLSK;Lusaka
+453;LUX;Люксембург;LUX;ELLX;Luxembourg
+454;LWN;Ширак;LWN;UDSG;Gyumri
+455;LWO;Львов;LWO;UKLL;Lvov
+456;LXR;Луксор;LXR;HELX;Luxor
+457;LXS;Лемнос;LXS;LGLM;Limnos
+458;LYR;Лонгиер;LYR;ENSB;Longyearbyen-Svalbar
+459;LYS;Сент Экзюпери;LYS;LFLL;St Exupery
+460;MAA;Ченнай;MAA;VOMM;Chennai
+461;MAD;Барахас;MAD;LEMD;Barajas
+462;MAH;Менорка;MAH;LEMH;Menorca
+463;MAN;Манчестер;MAN;EGCC;Manchester
+464;MAR;Маракайбо;MAR;SVMC;La Chinita 
+465;MBA;Момбаса;MBA;HKMO;Mombasa
+466;MBJ;Монтего Бэй;MBJ;;Sangster Intl
+467;MBX;Марибор;MBX;LJMB;Maribor
+468;MCO;Орландо;ORL;KMCO;Orlando
+469;MCT;Маскат;MCT;OOMS;Muscut
+470;MCX;Махачкала;MCX;URML;Makhachkala
+471;MDE;Меделлин;MDE;SKMD;Medellin
+472;MDK;Мбандака;MDK;FZEA;Mbandaka
+473;MDL;Мандалай;MDL;VYMD;Mandalay
+474;MDQ;Мар-дель-Плата;MDQ;SAZM;Mar del Plata
+475;MDZ;Мендоза;MDZ;;Mendoza
+476;MED;Медина;MED;OEMA;Madinah
+477;MEL;Мельбурн;MEL;YMML;Melbourne
+478;MEX;Мехико;MEX;MMMX;Mexico City
+479;MFM;Макао;MFM;VMMC;Macau Intl
+480;MGA;Аугусто Сесар Сандин;MGA;MNMG;Augusto Cesar Sandin
+481;MGO;Манега;MGO;;Manega
+482;MGQ;Могадишо;MGQ;HCMM;Mogadishu
+483;MHD;Шахид Хашеми Неджад;MHD;OIMM;Shahid Hashemi Nejod
+484;MHP;Минск-1;MSQ;UMMM;Minsk-1
+485;MIA;Майами;MIA;KMIA;Miami Int
+486;MID;Мерида;MID;MMMD;Merida(Lic Manuel Cr
+487;MIR;Монастир;MIR;DTMB;Mohastir
+488;MJT;Одиссис Елитис ;MJT;LGMT;Odysseas Elytis Airp
+489;MJV;Сан-Хавьер;MJV;LELC;Murcia
+490;MJZ;Мирный;MJZ;UERR;Mirny
+491;MLA;Мальта;MLA;LMML;Malta
+492;MLE;Мале;MLE;VRMM;Male
+493;MLH;Базель;XXX;LFSB;Basle-Mulhouse
+494;MLW;Монровия;MLW;GLMR;Monrovia
+495;MMA;Мальме Сити;MMA;;Malmo City Hvc
+496;MMK;Мурманск;MMK;ULMM;Murmansk
+497;MMX;Стуруп;MMA;ESMS;Sturup
+498;MNL;Манила;MNL;RPLL;Manila
+499;MOW;Чкаловское;MOW;XUMU;Chkalovskoe
+500;MPL;Монпелье;MPL;LFMT;Montpellier
+501;MPM;Мапуто;MPM;FQMA;Maputo
+502;MPW;Мариуполь;MPW;UKCM;Mariupol
+503;MQF;Магнитогорск;MQF;USCM;Magnitogorsk
+504;MRS;Марсель;MRS;LFML;Marseille
+505;MRU;Маврикий;MRU;FIMP;Mauritius
+506;MRV;Минеральные Воды;MRV;URMM;Min. Vody
+507;MSP;Миннеаполис;MSP;KMSP;Minneapolis ST Paul 
+508;MSQ;Минск-2;MSQ;UMMS;Minsk 2
+509;MST;Маастрихт Ахен;MST;EHBK;Maastricht Aachen
+510;MUC;Мюнхен;MUC;EDDM;Munich
+511;MVD;Монтевидео;MVD;SUMU;Carrasco
+512;MWH;Moses Lake;MWH;KMWH;Moses Lake
+513;MXP;Малпенса;MIL;LIMC;Malpensa
+514;MYS;Мыс Шмидта;MYS;UHMI;Mys Shmidta
+515;MZI;Мопти;MZI;;Mopti
+516;MZJ;Марана;MZY;KMZJ;Marana
+517;NAG;Нагпур;NAG;;Nagpur
+518;NAK;Нижнеангарск;NAK;UIUN;Nizhneangarsk
+519;NAL;Нальчик;NAL;URMN;Nalchik
+520;NAN;Нанди;NAN;NFFN;Nadi
+521;NAP;Неаполь;NAP;LIRN;Naples
+522;NAS;Нассау;NAS;MYNN;Nassau
+523;NBC;Бегишево;NBC;UWKE;Begishevo
+524;NBE;Энфида;NBE;;Enfidha
+525;NBO;Найроби;NBO;HKJK;Nairoby
+526;NCE;Ницца;NCE;LFMN;Nice/Cote D'Azur
+527;NCL;Ньюкастл;NCL;EGNT;New Castle
+528;NCU;Нукус;NCU;UTNN;Nukus
+529;NDB;Нуадибу;NDB;GQPP;Nouadhibou
+530;NDJ;Нджамена;NDJ;FTTJ;N'Djamena
+531;NER;Нерюнгри;NER;UELL;Neryungri
+532;NFG;Нефтеюганск;NFG;USRN;Nefteyugansk
+533;NGO;Нагоя;NGO;RJGG;Nagoya
+534;NIM;Ниамея;NIM;;Niamey
+535;NJC;Нижневартовск;NJC;USNN;Nizhnevartovsk
+536;NJG;Нягань;NJG;USHN;Nyagan
+537;NKC;Нуакшот;NKC;;Nouakchott
+538;NKG;Лакоу;NKG;ZSNJ;Lukou
+539;NLV;Николаев;NLV;UKON;Nikolaev
+540;NMA;Наманган;NMA;;
+541;NNM;Нарьян-Мар;NNM;ULAM;Naruan-Mar
+542;NOJ;Ноябрьск;NOJ;USRO;Noyabrxsk
+543;NOZ;Новокузнецк;NOZ;UNWW;Novokuznetsk
+544;NRT;Нарита;TYO;RJAA;Narita
+545;NSK;Норильск;NSK;UOOO;Norilsk
+546;NTE;Нант;NTE;LFRS;Nantes-Atlantique
+547;NUE;Нюрнберг;NUE;EDDN;Nurnberg
+548;NUX;Новый Уренгой;NUX;USMU;Novy Urengoi
+549;NVI;Навой;NVI;UTSA;Navoi
+550;NVR;Новгород;NVR;ULNN;Novgorod
+551;NWI;Норвич;NWI;EGSH;
+552;NYM;Надым;NYM;USMM;Nadym
+553;NYO;Скавста;STO;ESKN;Skavsta
+554;OAK;Окленд;OAK;KOAK;Metropolitan Oakland
+555;ODS;Одесса;ODS;UKOO;Odessa
+556;OEL;Орел;OEL;UUOR;Orel
+557;OGZ;Владикавказ;OGZ;URMO;Vladikavkaz
+558;OHA;Оха;OHA;UHSH;Oha
+559;OHD;Охрид;OHD;LWOH;Ohrid
+560;OKA;Окинава;OKA;ROAH;Naha
+561;OLB;Олбиа;OLB;LIEO;Olbia
+562;OMH;Урамах;OMH;;Urmich
+563;OMS;Центральный;OMS;UNOO;Tsentralny
+564;ONT;Онтарио;ONT;KONT;Ontario Int.
+565;OPO;Порто;OPO;LPPR;Porto
+566;ORB;Оребро;STO;ESOE;Orebro
+567;ORD;Охара;CHI;KORD;O'hare
+568;ORN;Оран;ORN;DAOO;Oran
+569;ORY;Орли;PAR;LFPO;Orli
+570;OSD;Ostersund;OSD;ESNZ;Ostersund Froesoe
+571;OSK;Старый Оскол;OSK;UUOS;Stariy Oskol
+572;OSL;Гардермоен;OSL;ENGM;Gardermoen
+573;OSR;Острава;OSR;LKMT;Ostrava
+574;OSS;Ош;OSS;UCFO;Osh
+575;OST;Остенд;OST;EBOS;Ostend
+576;OSW;Орск;OSW;UWOR;Orsk
+577;OTP;Отопени;BUH;LROP;Otopeni
+578;OUA;Уагадугу;OUA;DFFD;Ouagadougou
+579;OUL;Оулу;OUL;EFOU;Oulu
+580;OVB;Толмачево;OVB;UNNT;Tolmachevo
+581;OXB;Освальдо Виера;OXB;GGOV;Osvaldo Viera
+582;OZH;Запорожье;OZH;UKDE;Zaporozhye
+583;PAE;Эверет;SEA;KPAE;Everett
+584;PAP;Порт о Пренс;PAP;MTPP;Port au Prince Intl
+585;PDV;Пловдив;PDV;LBPD;Plovdiv
+586;PDX;Портленд;PDX;KPDX;Oreg Int.
+587;PED;Пардубице;PED;LKPD;Pardubice
+588;PEE;Большое Савино;PEE;USPP;Bolshoye Savino
+589;PEK;Пекин Столичный;BJS;ZBAA;Beijing Capital
+590;PEN;Пенанг;PEN;WMKP;Penang
+591;PER;Перт;PER;;Perth
+592;PES;Бессовец;PES;ULPB;Petrozavodsk
+593;PEX;Печора;PEX;UUYP;Pechora
+594;PEZ;Пенза;PEZ;UWPP;Penza
+595;PFO;Пафос;PFO;LCPH;Pafos
+596;PGF;Перпиньян;PGF;LFMP;Perpignan
+597;PHX;Скай Харбор;PHX;KPHX;Sky Harbor Intl
+598;PIK;Прествик;PIK;EGPK;Prestwick
+599;PIO;Писко;PIO;SPSO;Pisco
+600;PIS;Poitiers;PIS;LFBI;Poitiers
+601;PIT;Питсбург;PIT;KPIT;Pittsburgh Internati
+602;PKC;Елизово;PKC;UHPP;Yelizovo
+603;PKV;Псков;PKV;ULOO;
+604;PKX;Дасин;BJS;ZBAD;Beijing Daxing 
+605;PLQ;Паланга;PLQ;EYPA;Palanga
+606;PLX;Семипалатинск;PLX;UASS;Semipalatinsk
+607;PMI;Пальма-де-Мальорка;PMI;LEPA;Palma de Mallorca
+608;PMO;Палермо;PMO;LICJ;Palermo(Punt)
+609;PMV;Порламар;PMV;;Porlamar
+610;PNH;Пном-Пень;PNH;VDPP;Phnm Penh
+611;POM;Порт Моресби;POM;;Port Moresby
+612;POP;Пуэрто Плата;POP;MDPP;Puerto Plata
+613;POS;Пиарко Интл;POS;TTPP;Piarco Intl
+614;POW;Порторож;POW;;Portoroz
+615;POZ;Лавица;POZ;EPPO;Lawica
+616;PRG;Рузыне;PRG;LKPR;Ruzyne
+617;PSA;Пиза;PSA;LIRP;Pisa
+618;PSR;Пескара;PSR;LIBP;Pescara
+619;PTY;Токумен;PTY;MPTO;Tocumen Internationa
+620;PUF;По;PUF;LFBP;Pau
+621;PUJ;Пунта Кана;PUJ;MDPC;Punta Cana
+622;PUS;Кимхе;PUS;RKPK;Kimhae
+623;PUY;Пула;PUY;LDPL;Pula
+624;PVG;Пудонг;SHA;ZSPD;PuDong
+625;PWE;Певек;PWE;UHMP;Pevek
+626;PWQ;Павлодар;PWQ;UASP;Pawlodar
+627;PYJ;Полярный;PYJ;UERP;Poliarny
+628;PYS;Бухта Провидения;PYS;UHMD;Provideniya Bay
+629;QMB;Ямбург;QMB;USMQ;Yamburg
+630;QPG;Райя Лебар;SIN;WSAP;Paya Lebar
+631;QQQ;Старая Русса;QQQ;XLLU;
+632;RAK;Менара;RAK;;Menara
+633;RAT;Радужный;RAT;USNR;Raduzhny
+634;RAX;Раменское;MOW;UUBW;Ramenskoe
+635;RBA;Рабат;RBA;GMME;Rabat(Sale)
+636;REC;Ресифи;REC;SBRF;Recife
+637;REN;Оренбург-Центральный;REN;UWOO;Orenburg-Tsentralny
+638;REU;Реус;REU;LERS;Reus Ab
+639;RGK;Горно-Алтайск;RGK;UNBG;Gorno-Altaysk
+640;RHO;Родос;RHO;LGRP;Diagoras Airport
+641;RIX;Рига;RIX;EVRA;Riga
+642;RIY;Мукала;RIY;OYRN;Mukala(Rian)
+643;RJK;Риека;RJK;LDRI;Rijeka
+644;RKT;Рас-эль-Хайма;RKT;OMRK;Ras Al Khaimah
+645;RKV;Рейкьявик;REK;BIRK;Reykjavik
+646;RMF;Марса Алам;RMF;HEMA;Marsa Alam
+647;RMI;Римини;RMI;LIPR;Rimini Mil
+648;RNS;Ренн;RNS;LFRN;St Jacques
+649;ROV;Платов;ROV;URRP;Platov
+650;RSP;Туапсе;RSP;URSP;Tuapse
+651;RTM;Роттердам;RTM;EHRD;Rotterdam
+652;RTW;Саратов;RTW;UWSS;Saratov
+653;RUH;Риад;RUH;OERK;King Khaled
+654;RVI;Ростов до 01.03.18;ROV;URRR;Platov
+655;RVN;Рованиеми;RVN;EFRO;Rovaniemi
+656;RYB;Рыбинск(Староселье);RYB;UUBK;Rybinsk(Staroselye)
+657;RZN;Рязань(Турлатово);RZN;UUBR;Ryazan(Turlatovo)
+658;SAH;Сана;SAH;OYSN;Saana
+659;SAL;Сальвадор;SAL;MSLP;San Salvador
+660;SAN;Сан-Диего;SAN;KSAN;San Diego Intl-Lindb
+661;SAS;Сасово;SAS;UUBG;Sasovo
+662;SAW;Сабиха Гоксен ;IST;LTFJ;Sabina Gokcen
+663;SBT;Сабетта;SBT;USDA;Sabetta
+664;SCL;Сантьяго(Чили);SCL;SCEL;Santiago(Chile)
+665;SCN;Саарбрюкен;SCN;EDDR;Saarbruecken
+666;SCO;Актау;SCO;UATE;Aktau
+667;SCQ;Сантьяго де Компосте;SCQ;;
+668;SCW;Сыктывкар;SCW;UUYY;Syktyvcar
+669;SDJ;Сендай;SDJ;RJSS;Sendai
+670;SDQ;Санто Доминго;SDQ;MDSD;Las Americas
+671;SEA;Сиэтл;SEA;KSEA;Tacoma Int.
+672;SEL;Кимпо;SEL;RKSS;Kimpo Int.
+673;SEN;Сауфэнд;LON;EGMC;Southend
+674;SEW;Севастополь;SEW;UKFB;Sevastopol
+675;SEZ;Сейшелы;SEZ;FSIA;Seychelles Int.
+676;SFJ;Кангерлуссуак;SFJ;BGSF;Kangerlussuaq
+677;SFO;Сан-Франциско;SFO;KSFO;San Francisco Intl
+678;SGC;Сургут;SGC;USRR;Surgut
+679;SGN;Тансоннхат;SGN;VVTS;Tansonnhat
+680;SHA;Хонглао;SHA;ZSSS;Hongqiao
+681;SHE;Шеньян;SHE;ZYTX;Shenyang
+682;SHJ;Шарджа;SHJ;OMSJ;Sharjah
+683;SHP;Циньхуандао;SHP;ZBSH;Qinhuangdao
+684;SID;Амилкар Кабрал;SID;GVAC;Amilkar Cabral
+685;SIN;Чанги;SIN;WSSS;Changi
+686;SIP;Симферополь;SIP;URFF;Simferopol
+687;SIR;Сион;SIR;LSGS;Sion
+688;SJD;Лос Кабос Интл;SJD;MMSD;Los Cabos Intl
+689;SJJ;Сараево;SJJ;LQSA;Sarajevo
+690;SJU;Сан-Хуан;SJU;;San Juan
+691;SJW;Шидзязуань;SJW;ZBSJ;Daguocun
+692;SKD;Самарканд;SKD;UTSS;Samarkand
+693;SKG;Салоники;SKG;LGTS;Thessaloniki
+694;SKP;Скопье;SKP;LWSK;Skopje
+695;SKX;Саранск;SKX;UWPS;Saransk
+696;SLC;Солт-Лэйк-Сити;SLC;KSLC;Salt Lake City
+697;SLY;Салехард;SLY;USDD;Salehard
+698;SMA;Санта-Мария;SMA;LPAZ;Santa Maria
+699;SMI;Самос;SMI;;
+700;SMV;Самедан;SMV;LSZS;Samedan
+701;SNN;Шаннон;SNN;EINN;Shannon
+702;SOF;София;SOF;LBSF;Sofia
+703;SPN;Сайпан;SPN;;Saipan
+704;SPU;Сплит;SPU;LDSP;Split
+705;SQQ;Шауляй;SQQ;EYSA;Siauliai
+706;SRX;Гардабья;SRX;HLGD;Gardabya
+707;SSA;Сальвадор;SSA;;Salvador
+708;SSG;Малабо;SSG;FGSL;Malabo
+709;SSH;Шарм-эль-Шейх;SSH;HESH;Sharm Al Sheikh Intl
+710;STN;Стенстед;LON;EGSS;Stansted
+711;STR;Штутгарт;STR;EDDS;Stuttgart
+712;STW;Ставрополь;STW;URMT;Stavropol
+713;SUB;Сурабайя;SUB;WARR;SURABAYA
+714;SUF;Ламеция-Терме;SUF;LICA;Lamenzia-Terme
+715;SUI;Бабушеры;SUI;UGSS;Babushara
+716;SVG;Ставангер;SVG;ENZV;Stavanger
+717;SVL;Саволинна;SVL;EFSA;Savonlinna
+718;svo;Шереметьево (B);MOW;UUEE;Sheremetyevo
+719;svO;Шереметьево (C);MOW;UUEE;Sheremetyevo
+720;Svo;Шереметьево (E);MOW;UUEE;Sheremetyevo
+721;SVo;Шереметьево (D);MOW;UUEE;Sheremetyevo
+722;SVO;Шереметьево (F);MOW;UUEE;Sheremetyevo
+723;SVQ;Сан-Рабло;SVQ;LEZL;San Pablo
+724;SVX;Кольцово;SVX;USSS;Koltsovo
+725;SXB;Страсбург;SXB;LFST;Strasbourg-Entzhim
+726;SXF;Шенефельд;BER;EDDB;Schonefeld
+727;SYD;Сидней;SYD;YSSY;Sydney
+728;SYX;Феникс Межд.;SYX;ZJSY;Phoenix Int.
+729;SZG;Зальцбург;SZG;LOWS;Salzburg
+730;SZZ;Щецин;SZZ;EPSC;Szczecin
+731;TAG;Таганрог;TAG;URRT;Taganrog
+732;TAO;Куаньдян;TAO;ZSQD;Qingdao
+733;TAS;Южный;TAS;UTTT;Yuzhny
+734;TAT;Татры/Попрад;TAT;LZTT;Poprad/Tatry
+735;TBS;Лочини;TBS;UGTB;Lochini
+736;TBW;Тамбов;TBW;UUOT;Tambov
+737;TCP;Таба;TCP;;Ras An Naqp
+738;TEQ;Текирдаг;TEQ;LTBU;Tekirdag
+739;TEV;Теруэль;TEV;LETL;Teruel
+740;TFN;Тенерифе северный;TCI;GCXO;Tenerife-north
+741;TFS;Тенерифе южный (Рейн;TCI;GCTS;Tenerife South
+742;TGD;Подгорица;TGD;LYPG;Podgorica
+743;THR;Мехрабад;THR;OIII;Mehrabad Intl
+744;TIP;Триполи;TIP;HLLT;Tripoli
+745;TIV;Тиват;TIV;LYTV;Tivat
+746;TJM;Рощино;TJM;USTR;Roschino
+747;TKU;Турку;TKU;EFTU;Turku
+748;TL1;Тулуза 1;TLS;;Toulouse
+749;TLL;Таллин;TLL;EETN;Lennart Meri
+750;TLN;Тулон;TLN;LFTH;Toulon
+751;TLS;Тулуза;TLS;LFBO;Toulouse(Blag)
+752;TLV;Тель-Авив;TLV;LLBG;Tel Aviv Yafo
+753;TMJ;Термез;TMJ;UTST;Termez
+754;TMP;Тампере;TMP;EFTP;Tampere
+755;TMS;Салазар;SOM;FPST;Salazar
+756;TNA;Цзинань;TNA;ZSJN;Jinan
+757;TNG;Танжер;TNG;;Tangier
+758;TNN;Тайнань;TNN;ZBYN;Tainan
+759;TNR;Антананариву;TNR;FMMI;Antananarivo
+760;TOF;Томск Богашево;TOF;UNTT;Tomsk
+761;TOJ;Torrejon Afb;MAD;LETO;Torrejon Afb
+762;TOS;Тромсо;TOS;ENTC;Tromso
+763;TOY;Тояма;TOY;;Toyama
+764;TPE;Тайбей;TPE;RCTP;Taipei (Chiang Kai S
+765;TPS;Трапани;TPS;LICT;Trapani
+766;TRD;Трондхейм;TRD;ENVA;Trondheim
+767;TRN;Турин;TRN;LIMF;Torino(Cas)
+768;TRS;Триест;TRS;LIPQ;Trieste
+769;TRV;Тривандрам;TRV;;Trivandrum
+770;TSE;Нурсултан Назарбаев;TSE;UACC;Nursultan Nazarbaev 
+771;TSF;Тревизо;TSF;LIPH;Venice-Treviso-Sant'
+772;TSN;Бинхай;TSN;ZBTJ;Binghai
+773;TUF;Тур;TUF;LFOT;Tours
+774;TUN;Карфаг;TUN;DTTA;Carfag
+775;TXL;Тегель;BER;EDDT;Tegel
+776;TYA;Клоково;TYA;UUBT;Klokovo
+777;TYD;Тында;TYD;UHBW;Tinda
+778;TYL;Кэрт. Монтес;TYL;SPYL;Cart. Montes
+779;TYN;Тайюань;TYN;ZBYN;Taiyun Wusu
+780;TZX;Трабзон;TZX;LTCG;Trabzon
+781;UCT;Ухта;UCT;UUYH;Ukhta
+782;UFA;Уфа;UFA;UWUU;Ufa
+783;UGC;Ургенч;UGC;;
+784;UII;Белая;IKT;UIIB;Irkutsk
+785;UIK;Усть-Илимск;UIK;;
+786;UIP;Quimper;UIP;LFRO;Quimper
+787;UKK;Усть-Каменогорск;UKK;UASK;Ust-Kamenogorsk
+788;ULG;Улгий;ULG;ZMUL;Ulgii
+789;ULN;Буянт-Уха;ULN;ZMUB;Buyant-Ukhaa
+790;ULV;Баратаевка;ULY;UWLL;Ulyanovsk
+791;ULY;Восточный;ULY;UWLW;Ulyanovsk
+792;UME;Умеа;UME;ESNU;Umea
+793;URA;Уральск;URA;UARR;Uralsk
+794;URC;Урумчи;URC;ZWWW;Urumqi (Diwopu)
+795;URJ;Урай;URJ;USHU;Uraj
+796;URS;Курск;URS;UUOK;Kursk
+797;URT;Сурат;URT;VTSB;Surat Thani
+798;USK;Усинск;USK;UUYS;Usinsk
+799;UTP;Утапао;UTP;VTBU;U-taphao
+800;UUA;Бугульма;UUA;UWKB;Bugulma
+801;UUD;Улан-Удэ;UUD;UIUU;Ulan Ude
+802;UUS;Хомутово;UUS;UHSS;Khomytovo
+803;UVF;Хеванора Интл;UFF;TLPL;Hewanorra Intl
+804;VAA;Вааса;VAA;EFVA;Vaasa
+805;VAE;Варлос;CPH;EKVL;Vaerlose
+806;VAR;Варна;VAR;LBWN;Varna
+807;VBS;Брешиа;VBS;LIPO;Brescia
+808;VCE;Тессера;VCE;LIPZ;Tessera
+809;VCV;Викторвиль;VCV;KVCV;Southern California 
+810;VDA;Овда;VDA;LLOV;Ovda
+811;VGD;Вологда;VGD;ULWW;Vologda
+812;VHY;Виши;VHY;LFLV;Vichy
+813;VIE;Швеха;VIE;LOWW;Vienna/Schwechat
+814;VIT;Витороя;VIT;LEVT;Vitoria
+815;VKO;Внуково;MOW;UUWW;Vnukovo
+816;VKT;Воркута;VKT;UUYW;Vorkuta
+817;VLC;Валенсия;VLC;LEVC;Valencia
+818;VNK;Внуково 2;MOW;UUWW;Vnukovo 2
+819;VNO;Вильнюс;VNO;EYVI;Vilnius INTL
+820;VOG;Гумрак;VOG;URWW;Gumrak
+821;VOZ;Воронеж;VOZ;UUOO;Voronezh
+822;VRA;Варадеро;VRA;MUVR;Juan Gualberto Gomez
+823;VRN;Верона;VRN;LIPX;Verona
+824;VSG;Луганск;VSG;UKCW;Lugansk
+825;VST;Хассло;VST;ESOW;Hasslo
+826;VTE;Вантей;VTE;VLVT;Wattay
+827;VVO;Кневичи;VVO;UHWW;Knevichi
+828;WAW;Окенце;WAW;EPWA;Okecie
+829;WDH;Виндхук;WDH;;Windhoek
+830;WLG;Веллингтон;WLG;;Wellington
+831;WOE;Вонсдрехт;WOE;EHWO;Woensdrecht
+832;WRO;Страховице;WRO;EPWR;Strachowice
+833;WUH;Тианьхэ;WUH;ZHHH;Tianhe
+834;XFW;Финкенвердер;HAM;EDHI;Finkenwerder
+835;XHW;Воздвиженка;VVO;XHWV;Vladivostok
+836;XIY;Синьян;XIY;ZLXY;Xianyang
+837;XLK;Кречевицы;NVR;ULLK;Krechevitsy
+838;XLW;Лемвердер;XLW;EDWD;Lemwerder
+839;XMN;Сямынь;XMN;ZSAM;Xiamen
+840;XRM;Буденовск;XRM;XRMB;
+841;XRY;Херес;XRY;LEJR;Jerez
+842;XXX;Хурба;KXK;UHKK;Hurba
+843;YAO;Яунде;YAO;FKYS;Yaounde
+844;YEG;Эдмонтон;YEA;;Edmonton
+845;YEI;Енишихир;YEI;;
+846;YEL;Елахан;YEL;VOYK;
+847;YFB;Икалуит;YFB;CYFB;Ikaluit
+848;YGK;Кингстон;YGK;CYGK;Kingston
+849;YHZ;Галифакс;YHZ;;Halifax
+850;YJT;Стефенвиль;YJT;;Stephenvil
+851;YKS;Якутск;YKS;UEEE;Yakutsk
+852;YMX;Мирабел;YMQ;CYMX;Mirabel
+853;YNT;Янтай;YNT;ZSYT;Yantai
+854;YOW;Оттава;YOW;CYOW;Ottawa
+855;YQX;Гандер;YQX;CYQX;Gander
+856;YUL;Дорвал;YMQ;CYUL;Dorval
+857;YVR;Ванкувер;YVR;;Vancouver
+858;YWG;Виннипег;YWG;;Winnipeg
+859;YYC;Калгари;YYC;;Calgary
+860;YYR;Гус-Бей;YYR;CYYR;Goose Bay
+861;YYZ;Пирсон;YTO;CYYZ;Pearson Int.
+862;ZAD;Задар;ZAD;LDZD;Zadar
+863;ZAG;Загреб;ZAG;LDZA;Zagreb
+864;ZAZ;Сарагоса;ZAZ;LEZG;Zaragoza
+865;ZEY;Зея;ZEY;UHBE;Zeiy
+866;ZIA;Жуковский;MOW;UUBW;Zhukovsky
+867;ZRH;Цюрих;ZRH;LSZH;Zurich
+868;ZTH;Закинтос;ZTH;;
+869;ZUH;Джохай/Санзао;ZUH;ZGSD;Zhuhai/Sanzao

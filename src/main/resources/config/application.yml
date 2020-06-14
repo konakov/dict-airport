@@ -1,0 +1,13 @@
+spring:
+  liquibase:
+    change-log: "classpath:config/liquibase/master.xml"
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/airport
+    username: airport_user
+    password: passw0rd
+  jpa:
+    show-sql: true
+    
+
+
